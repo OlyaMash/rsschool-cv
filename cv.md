@@ -9,8 +9,8 @@
 My goal is to become a Frontend Developer
 ***
 ### Skills
-HTML  
-CSS
+* HTML  
+* CSS
 ***
 ### Education
 Course on Udemy "The complete web development bootcamp"
