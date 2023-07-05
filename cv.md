@@ -1,20 +1,26 @@
 # Olga Mashkovtseva
-#### Junior Frontend Developer  
+
+#### Frontend Developer
 
 ### Contact information
+
 **Phone:** +79852256168  
-**E-mail:** olga.uglik27@gmail.com  
+**E-mail:** olga.uglik27@gmail.com
 
 ### About me
-My goal is to become a Frontend Developer 
+
+My goal is to become a Frontend Developer
 
 ### Skills
-* HTML  
-* CSS  
+
+- HTML
+- CSS
 
 ### Education
-Course on Udemy "The complete web development bootcamp"  
 
-### Languages  
+Course on Udemy "The complete web development bootcamp"
+
+### Languages
+
 English - B1  
-French - A2  
+French - A2
